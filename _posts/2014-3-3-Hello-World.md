@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FDK
+title: ''
 published: true
 ---
 ###
