@@ -1,9 +1,0 @@
----
-published: true
----
----
-layout: post
-title: Takhle to má fungovat?
----
-
-Mrdat kriminál 
