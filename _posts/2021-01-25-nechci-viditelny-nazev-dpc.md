@@ -1,6 +1,9 @@
 ---
 published: true
 ---
-## Jako u píčusů
+---
+layout: post
+title: Takhle to má fungovat?
+---
 
-Toto
+Mrdat kriminál 
