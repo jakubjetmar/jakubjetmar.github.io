@@ -3,6 +3,7 @@ layout: post
 title: ''
 published: true
 ---
-## takhle? 
-
-Jakub Jetmar
+---
+layout: post
+title: Blogging Like a Hacker
+---
