@@ -1,6 +1,6 @@
 ---
-published: false
+published: true
 ---
 ## Jako u píčusů
 
-Toto 
+Toto
